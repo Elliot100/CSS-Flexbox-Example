@@ -1,0 +1,11 @@
+/*Reset*/
+
+h1, h2, ul {
+    margin: 0;
+    vertical-align: bottom;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
